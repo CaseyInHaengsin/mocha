@@ -9,10 +9,10 @@
   "author": "Casey",
   "license": "ISC",
   "devDependencies": {
+    "expect": "^1.20.2",
     "mocha": "^5.1.1"
   },
   "dependencies": {
-    "expect": "^1.20.2",
     "nodemon": "^1.17.3"
   }
 }
